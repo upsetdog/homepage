@@ -106,8 +106,8 @@ import unifi from "./unifi/widget";
 import unmanic from "./unmanic/widget";
 import uptimekuma from "./uptimekuma/widget";
 import uptimerobot from "./uptimerobot/widget";
-import watchtower from "./watchtower/widget";
 import wanikani from "./wanikani/widget";
+import watchtower from "./watchtower/widget";
 import whatsupdocker from "./whatsupdocker/widget";
 import xteve from "./xteve/widget";
 import urbackup from "./urbackup/widget";
@@ -226,8 +226,8 @@ const widgets = {
   uptimekuma,
   uptimerobot,
   urbackup,
-  watchtower,
   wanikani,
+  watchtower,
   whatsupdocker,
   xteve,
 };
