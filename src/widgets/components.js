@@ -115,6 +115,7 @@ const components = {
   uptimekuma: dynamic(() => import("./uptimekuma/component")),
   uptimerobot: dynamic(() => import("./uptimerobot/component")),
   urbackup: dynamic(() => import("./urbackup/component")),
+  wanikani: dynamic(() => import("./wanikani/component")),
   watchtower: dynamic(() => import("./watchtower/component")),
   whatsupdocker: dynamic(() => import("./whatsupdocker/component")),
   xteve: dynamic(() => import("./xteve/component")),
